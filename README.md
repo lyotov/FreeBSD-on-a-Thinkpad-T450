@@ -1,5 +1,6 @@
 # FreeBSD-on-Thinkpad-T450
 My configuration files
+
 These are some main configuration files that I use in my FreeBSD installation on Lenovo ThinkPad t450. These are stored here for my convenience and hopefully will help someone else with the configuration of FreeBSD on a laptop.
 Currently the version of FreeBSD is 12.2 with ZFS (on GELI) using one SSD.
 What works for me so far is:

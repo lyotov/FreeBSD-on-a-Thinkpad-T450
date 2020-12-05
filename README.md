@@ -18,6 +18,7 @@ What works for me so far is:
 - video camera - works well
 
 For the installation and configuration of Xorg I have followed closely vermaden's blog (nice work!): https://vermaden.wordpress.com/freebsd-desktop/
+
 List of installed software (using the command "pkg prime-origins" or "pkg prime-list"):
 
 graphics/ImageMagick7
@@ -84,7 +85,7 @@ x11/xlockmore
 x11/xorg
 x11/xterm
 
-and a another list made with "pkg prime-list" more suitalbe for "pkg install":
+And a another list made with "pkg prime-list" more suitalbe for "pkg install":
 
 ImageMagick7
 anydesk

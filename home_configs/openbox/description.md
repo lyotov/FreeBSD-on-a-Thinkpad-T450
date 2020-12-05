@@ -1,0 +1,1 @@
+Openbox configuration files.

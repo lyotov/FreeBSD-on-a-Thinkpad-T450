@@ -10,7 +10,7 @@ What works for me so far is:
 - wireless (slow for the moment but working well)
 - LAN adapter
 - terminal scroll back (Win+k)
-- Xorg with drm kmod
+- Xorg with respective drm driver (compiled the driver from ports)
 - sound - from the speakers and from headphones (swithcing is automatic with the insertion of the headphones)
 - touchpad and trackpad (all buttons)
 - Realtec RTS5227 PCI Express Card Reader using the ported from OpenBSD rtsx driver (thanks to all that worked on it, the source can be found here: https://github.com/hlh-restart/rtsx)
